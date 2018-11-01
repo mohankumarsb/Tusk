@@ -4,3 +4,8 @@ Welcome to Mohan's tusk repository
 Vegeterian foods
 Idli 
 Dosa
+
+
+Non Vegeterian foods
+Chicken dry
+Fish fry
